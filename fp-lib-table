@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name "MotorBoard")(type "KiCad")(uri "${KIPRJMOD}/MotorBoard.pretty")(options "")(descr ""))
+)
